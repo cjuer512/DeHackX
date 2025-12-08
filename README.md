@@ -15,7 +15,7 @@ I don't have many time in watching email.Often once a week.
 
 ## Some standards
 1.You can't use makefile in this project.The tool to build this project need be written in Python.
-2.Except the some tools and modules from other projects,please write other codes in C/C++.If you want to import some other langueges modules,please contact me first.
+2.Except the some tools and modules from other projects,please write other codes in C/C++ and C# for GUI.If you want to import some other langueges modules,please contact me first.
 3.If it's necessary,you can use intel assembly.
 4.You need provide document when you provide codes.
 
